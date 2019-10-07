@@ -1,6 +1,8 @@
 # SwiftControllingUIScrollViewsDemo
 Swift - Swift Controlling UIScrollViews Demo - Demo 16 of 30
 
+App created in Xcode 10.3 (10G8) using Swift 4.2, iOS Deployment Target 12.4 and tested on a iPhone Xr Emulator
+
 In this demo app we demonstrate how to code a swift Controlling UIScrollView Demo app.
 
 There are so many interesting things within swift. This demo shows one way to use UIScrollViews in an app.
